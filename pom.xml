@@ -190,6 +190,7 @@
     <module>nexus</module>
     <module>nexus3</module>
     <module>orion</module>
+    <module>oshinko</module>
     <module>prometheus</module>
     <module>prometheus-blackbox-exporter</module>
     <module>prometheus-node-exporter</module>
